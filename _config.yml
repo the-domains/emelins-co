@@ -1,0 +1,23 @@
+name: emelins.co
+favicon: null
+layout_spectrum: 0.5856938699726015
+typography_spectrum: 0.5251020821742713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13150225766003132
+  lightness: 0.49275827617384493
+  saturation: 0.1482748358976096
+  rhythmicContrast: 0.32938936701975763
+purpose: []
