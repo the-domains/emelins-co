@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[emelins.co]]></title>
         <description><![CDATA[emelins.co]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.emelina.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 20:27:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 20:32:47 GMT</lastBuildDate>
+        <atom:link href="http://www.emelina.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9028b93a-6ace-4a25-8b40-7bc701442435.jpg">]]></description>
-            <link>undefined9e38e592-25ff-4ff1-927c-aaec2044ded6/index.html</link>
+            <link>http://www.emelina.co/9e38e592-25ff-4ff1-927c-aaec2044ded6/index.html</link>
             <guid isPermaLink="false">9e38e592-25ff-4ff1-927c-aaec2044ded6</guid>
             <pubDate>Tue, 10 Nov 2015 20:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b6ff3e-699c-41a3-a6f5-db59cb62508c.jpg">]]></description>
+            <link>http://www.emelina.co/144a40f1-f9b9-4515-a984-417ff7c3e5be/index.html</link>
+            <guid isPermaLink="false">144a40f1-f9b9-4515-a984-417ff7c3e5be</guid>
+            <pubDate>Tue, 10 Nov 2015 20:31:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
