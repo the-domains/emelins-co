@@ -1,7 +1,7 @@
 name: emelins.co
 favicon: null
-layout_spectrum: 0.5856938699726015
-typography_spectrum: 0.5251020821742713
+layout_spectrum: 0.95665
+typography_spectrum: 0.9027
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#c58448'
     - '#ff6f18'
   brandStrength: 0.125
-  lightness: 0.49275827617384493
-  saturation: 0.1482748358976096
-  rhythmicContrast: 0.32938936701975763
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
